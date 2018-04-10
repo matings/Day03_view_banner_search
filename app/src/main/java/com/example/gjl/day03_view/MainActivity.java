@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
         //初始化数据
         List<ImageView> list = initDatas();
 
+//        github提交测试
+
 
         MyViewPager.MyAdapter myAdapter = new MyViewPager.MyAdapter(list);
 
